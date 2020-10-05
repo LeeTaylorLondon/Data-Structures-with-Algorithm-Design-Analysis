@@ -1,0 +1,44 @@
+Unique Data Set Tests (Results in Nanoseconds)
+Deletion By Surname
+
+Array Best Case: 2100| Array Worst Case: 118199| Array Average Case: 4145
+ArrayList Best Case: 1701| ArrayList Worst Case: 178800| ArrayList Average Case: 4681
+HashMap Best Case: 399| HashMap Worst Case: 60500| HashMap Average Case: 1100
+
+Deletion By Extension
+Array Best Case: 3299| Array Worst Case: 129600| Array Average Case: 3972
+ArrayList Best Case: 3499| ArrayList Worst Case: 205800| ArrayList Average Case: 4262
+HashMap Best Case: 199| HashMap Worst Case: 70801| HashMap Average Case: 557
+
+Insertion
+Array Best Case: 99| Array Worst Case: 1397300| Array Average Case: 3423
+ArrayList Best Case: 100| ArrayList Worst Case: 37599| ArrayList Average Case: 4596
+HashMap Best Case: 100| HashMap Worst Case: 35001| HashMap Average Case: 291
+
+Lookup
+Array Best Case: 1699| Array Worst Case: 116000| Array Average Case: 4747
+ArrayList Best Case: 1599| ArrayList Worst Case: 119599| ArrayList Average Case: 4730
+HashMap Best Case: 99| HashMap Worst Case: 29700| HashMap Average Case: 202
+
+Duplicate Data Set Tests (Results in Nanoseconds)
+
+Deletion By Surname
+Array Best Case: 1900| Array Worst Case: 31700| Array Average Case: 2806
+ArrayList Best Case: 1599| ArrayList Worst Case: 22600| ArrayList Average Case: 3049
+HashMap Best Case: 399| HashMap Worst Case: 49599| HashMap Average Case: 966
+
+Deletion By Extension
+Array Best Case: 3599| Array Worst Case: 22100| Array Average Case: 4147
+ArrayList Best Case: 3799| ArrayList Worst Case: 25800| ArrayList Average Case: 4347
+HashMap Best Case: 100| HashMap Worst Case: 4800| HashMap Average Case: 294
+
+Insertion
+Array Best Case: 99| Array Worst Case: 16500| Array Average Case: 3065
+ArrayList Best Case: 99| ArrayList Worst Case: 37900| ArrayList Average Case: 2773
+HashMap Best Case: 99| HashMap Worst Case: 30600| HashMap Average Case: 210
+
+Lookup
+Array Best Case: 99| Array Worst Case: 4800| Array Average Case: 188
+ArrayList Best Case: 99| ArrayList Worst Case: 6100| ArrayList Average Case: 175
+HashMap Best Case: 99| HashMap Worst Case: 21799| HashMap Average Case: 118
+
